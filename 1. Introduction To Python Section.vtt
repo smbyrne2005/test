@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00.660 --> 00:06.800
+Welcome to Section 13 of the complete web developer course I hope you enjoyed working with a team of
+
+00:06.800 --> 00:13.530
+5 and CSSA three and seeing some of the great features that we can use from those in our web sites and
+
+00:13.530 --> 00:19.200
+web apps in this section we're going to return it to a server side language and we're going to be looking
+
+00:19.200 --> 00:21.480
+specifically at Python.
+
+00:21.480 --> 00:27.630
+Python is a great language for new coders to learn because it's so clean and well-thought-out.
+
+00:27.750 --> 00:33.030
+We can also use it on a huge range of different platforms that works on a web server but you can also
+
+00:33.030 --> 00:40.110
+use it on say a Raspberry Pi or an order window to allow you to build Internet of things experiences
+
+00:40.350 --> 00:41.760
+for your users.
+
+00:41.880 --> 00:43.950
+So it should be pretty straightforward to get to grips with.
+
+00:44.070 --> 00:48.960
+We'll start with the basics of how Python works and how you get a Python script up and running and then
+
+00:48.990 --> 00:54.630
+we'll go on to look at some of the specific Python features and we'll be making a fun game with Python
+
+00:54.690 --> 00:55.380
+as well.
+
+00:56.300 --> 01:00.190
+So enjoy the section and as always I'll see at the beginning of the next one.

@@ -1,0 +1,364 @@
+WEBVTT
+
+00:00.770 --> 00:01.200
+All right.
+
+00:01.200 --> 00:06.340
+So hopefully you're already enjoying the simple and straightforward syntax of Python.
+
+00:06.570 --> 00:13.320
+I'm actually going to start this video on if statements with a challenge and that is that can you work
+
+00:13.320 --> 00:20.040
+out the Python syntax for an IF statement from the syntax for a follow up.
+
+00:20.040 --> 00:21.570
+It's pretty similar.
+
+00:21.630 --> 00:22.800
+See if you can figure it out.
+
+00:32.630 --> 00:33.000
+OK.
+
+00:33.000 --> 00:33.960
+Did you manage it.
+
+00:34.290 --> 00:44.650
+Well then if say I'm going to put back in name is equal to drop and then the if statement is very simply
+
+00:44.800 --> 00:55.310
+if and then name and then double equals as were used to equal to rob.
+
+00:55.330 --> 00:58.010
+This is testing whether name is equal to rob.
+
+00:58.090 --> 01:05.740
+Rather than setting name equal to rub and then we can to use the colon just like we did in the follow
+
+01:05.750 --> 01:07.480
+up and then
+
+01:12.210 --> 01:14.230
+we'll do whatever we want to do.
+
+01:14.430 --> 01:19.810
+If that statement is true afterwards so simple as that.
+
+01:19.970 --> 01:20.810
+Let's have a look.
+
+01:24.850 --> 01:26.700
+I rub.
+
+01:26.880 --> 01:30.080
+And just to check make sure it's working correctly.
+
+01:30.540 --> 01:32.850
+We change that to roll but it doesn't do anything.
+
+01:34.400 --> 01:41.360
+So that's how IF statements work super straightforward and easy to read to put an else clause in then
+
+01:42.230 --> 01:50.630
+we just return back to the edge of our code so we can remove any indenting and then we have an ELSE
+
+01:51.050 --> 01:51.650
+command.
+
+01:51.650 --> 01:57.530
+And another colon and then we'll print something like.
+
+01:57.530 --> 02:02.490
+I don't know you.
+
+02:02.880 --> 02:04.760
+So now we've got Hello Rob or
+
+02:08.310 --> 02:09.640
+the name is Keston.
+
+02:09.650 --> 02:23.020
+I don't know you and we can also add extra statements here and just put in the syntax and or so we could
+
+02:23.020 --> 02:24.940
+have name is equal to say
+
+02:28.790 --> 02:36.390
+cast in their and then allow just a general name.
+
+02:36.480 --> 02:39.890
+So then rob or Keston would be allowed in.
+
+02:39.960 --> 02:41.870
+Anyone else would not.
+
+02:42.600 --> 02:43.250
+OK.
+
+02:43.560 --> 02:46.110
+So that's pretty much all there is to if statements.
+
+02:46.380 --> 02:50.490
+I'm now going to give you a slightly meta programming challenge than the one you had in the previous
+
+02:50.490 --> 02:51.170
+video.
+
+02:51.510 --> 02:53.690
+This is one of my favorite programming challenges.
+
+02:53.700 --> 02:56.270
+It's not too tricky but it definitely gets you thinking.
+
+02:56.610 --> 03:12.020
+And that is you need to create a program which displays the first 50 prime numbers.
+
+03:12.030 --> 03:18.120
+Now if you're not sure what a prime number is essentially it's a number that has precisely two factors
+
+03:18.300 --> 03:24.630
+or 2 numbers that go into it and those two factors have to be one and itself.
+
+03:24.630 --> 03:30.900
+So for example 2 is a prime number because the only numbers that go into two are 1 and 2 but six is
+
+03:30.900 --> 03:32.260
+not a prime number.
+
+03:33.150 --> 03:37.350
+Because two and three also get into six.
+
+03:37.390 --> 03:40.630
+So I'll tell you what the first few prime numbers are.
+
+03:40.930 --> 03:52.040
+They are two three four is not because two guys into it 5 7 11 is the next one etc..
+
+03:53.250 --> 03:57.120
+So you can look that up if you want to clarify that definition a little bit but hopefully that gives
+
+03:57.120 --> 03:58.550
+you a clear idea.
+
+03:58.620 --> 04:04.110
+And we want to have a loop which is going to have a few If statements in it which sets it up in any
+
+04:04.110 --> 04:09.180
+way you like to display the first 50 prime numbers.
+
+04:09.180 --> 04:10.170
+Off you go then.
+
+04:10.170 --> 04:10.710
+Best of luck
+
+04:18.870 --> 04:19.560
+OK.
+
+04:20.050 --> 04:28.380
+Well I'm going to start with a WHILE loop so I'm going to start with a variable called number of primes
+
+04:28.910 --> 04:31.560
+to count the number of primes that we have.
+
+04:31.560 --> 04:39.780
+And I'm going to set that initially to 0 8 and we're going to keep going as long as the number of primes
+
+04:44.700 --> 04:47.380
+is less than 50.
+
+04:47.550 --> 04:49.960
+And then once we get to 50 we'll stop.
+
+04:50.280 --> 04:55.750
+And then within this wild ape I'm going to start at the first prime number.
+
+04:55.800 --> 05:04.170
+So that is two and then I'm going to increase by one each time and then check to see whether that number
+
+05:04.170 --> 05:08.260
+has any factors other than 1 or itself.
+
+05:08.280 --> 05:13.930
+And if it does it's not a prime number so I won't display it and if it doesn't it is a prime number.
+
+05:14.100 --> 05:17.920
+So I will say see how that's going to work.
+
+05:20.510 --> 05:28.160
+That's half of our number which at the beginning of the program will set to two.
+
+05:28.190 --> 05:43.180
+So now I'm going to do a follow up and I'll call this I and we'll loop through a range starting at 2
+
+05:45.950 --> 05:50.660
+opti number.
+
+05:50.720 --> 05:56.570
+So we're starting at the number two and then let's say we're doing the number 10 we're going to go to
+
+05:56.600 --> 05:59.500
+three four five six seven eight nine.
+
+05:59.720 --> 06:05.270
+I remember this range doesn't actually include number which is just right for us because we don't want
+
+06:05.270 --> 06:12.390
+to check if the number divides itself because every number divides itself.
+
+06:12.500 --> 06:14.550
+So that's our second leap.
+
+06:14.840 --> 06:18.900
+And then we want to check if a number divides another number.
+
+06:19.160 --> 06:26.030
+We actually saw how to do that in Javascript in the age Tim L5 section and the syntax for doing it in
+
+06:26.030 --> 06:28.850
+Python is exactly the same.
+
+06:29.060 --> 06:30.530
+So it's just if.
+
+06:30.980 --> 06:33.040
+And then to get the remainder.
+
+06:33.170 --> 06:43.060
+When number is divided by we use number and then percent I.
+
+06:43.310 --> 06:50.960
+And if I divide exactly into number then the remainder is going to be zero.
+
+06:54.630 --> 07:02.600
+So if this has happened that means the number is not prime because a number must go into it.
+
+07:02.600 --> 07:03.810
+Exactly.
+
+07:04.440 --> 07:14.590
+So I'm going to deal with that by having a variable called is prime which is initially true.
+
+07:14.950 --> 07:25.650
+So I'll assume that every number is prime until I find another member that goes into it.
+
+07:25.670 --> 07:34.480
+So once I found another number that goes into it then his prime becomes Foldes So then we want to end
+
+07:34.480 --> 07:37.100
+the if statement so we get back 1.
+
+07:37.270 --> 07:38.390
+We also want to.
+
+07:38.680 --> 07:45.410
+And the for loop but we want to stay in the major while loop.
+
+07:45.490 --> 07:57.330
+So then at this point we're going to check to see if is prime is equal to true and if it is we want
+
+07:57.330 --> 07:58.660
+to do two things.
+
+07:59.130 --> 08:02.550
+So we want to print the number
+
+08:05.670 --> 08:13.710
+and we want to add 1 to the number of primes that we have.
+
+08:13.860 --> 08:18.860
+We can do that using plus equals 1.
+
+08:19.060 --> 08:21.690
+If it's not prime We don't want to do anything.
+
+08:21.790 --> 08:32.390
+But either way we want to add 1 to number so that we can then go on and test the next number.
+
+08:33.030 --> 08:39.150
+And just before we run that there is one change I need to make and that is that in Python.
+
+08:39.150 --> 08:43.370
+True and False begin with capital letters.
+
+08:43.860 --> 08:48.380
+So we should always use capital-T in capital F for true and false.
+
+08:49.350 --> 08:51.300
+And there we can.
+
+08:51.360 --> 08:57.020
+So those are where they look very much like the first 50 prime numbers.
+
+08:59.220 --> 09:03.560
+So to get through that fairly quickly just to go through once again what's going on here.
+
+09:03.870 --> 09:09.720
+We're setting the number of primes that we've got to zero and we're setting the number that we're testing
+
+09:09.720 --> 09:10.590
+at any given time.
+
+09:10.590 --> 09:14.270
+To start off at two because we know that that's the first prime number.
+
+09:15.030 --> 09:19.260
+And then we're keeping going as long as the number of primes is less than 50.
+
+09:19.320 --> 09:25.560
+So it will stop when we get to 50 and initially we're assuming that the number that we're testing is
+
+09:25.710 --> 09:28.780
+prime because we're setting is prime to be true.
+
+09:29.220 --> 09:39.060
+And then we're taking I in a loop from 2 up to the number that we're testing and we're checking to see
+
+09:39.180 --> 09:41.330
+if I divide number.
+
+09:41.340 --> 09:42.290
+Exactly.
+
+09:42.720 --> 09:46.600
+And if it does then we'll set is prime to falls.
+
+09:46.740 --> 09:54.300
+So if number was 10 for example then we would go to 3 4 5 6 7 8 9 and divide each of those into ten
+
+09:54.390 --> 09:58.720
+and see if any went exactly of course for 10 2 and 5.
+
+09:58.890 --> 09:59.590
+Exactly.
+
+09:59.730 --> 10:02.110
+So which set is prime to be false.
+
+10:02.280 --> 10:07.550
+And then at the very end once we'd done all that testing we checked to see if Prime is true.
+
+10:07.800 --> 10:12.570
+Then we print the number out and we add 1 to the number of primes that we've got.
+
+10:13.820 --> 10:20.540
+Then regardless of what we do we then add 1 to the testing number and then we just keep going until
+
+10:20.540 --> 10:23.230
+we get our 50 primes.
+
+10:23.300 --> 10:29.300
+So looking at that we're doing something pretty complex there but it's a really simple and really brief
+
+10:29.630 --> 10:32.060
+chunk of code that does all that for us.
+
+10:32.150 --> 10:37.370
+There's no curly brackets and even very few parentheses in the next video.
+
+10:37.670 --> 10:43.620
+I'll show you the last piece of the Python puzzle before we make our Python mastermind game.
+
+10:43.640 --> 10:45.000
+And that is functions.
